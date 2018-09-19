@@ -1,0 +1,2 @@
+# longstox
+Get stock notifications
